@@ -1,1 +1,1 @@
-# Compound-Interest-Calculator
+# Increase , Decrease and Reset - Counter
